@@ -4,12 +4,11 @@ Read the Express documentation (https://expressjs.com/en/5x/api.html) and answer
 
 ## 1. What is inside the request object (`req`)?
 
-<!-- write your answer here -->
+//אובייקט שמכיל מידע על בקשת http שהגיע מהלקוח לשרת
 
 ## 2. What is inside the response object (`res`)?
 
-<!-- write your answer here -->
+//אובייקט שדרכו השרת בונה ושולח תשובת http ללקוח
 
 ## 3. What does `app.use()` do?
-
-<!-- write your answer here -->
+משמשת לרישום בMiddleware בשרת Express
